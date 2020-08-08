@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="name">Enter Name</string>
+    <string name="mobile">Enter Mobile Number </string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <!-- Input FieldError-->
+    <string name="name_error">Please Enter Name</string>
+    <string name="mobile_error">Please Enter Mobile Number </string>
+    <string name="comapny_error">Please Select Valid Company Name</string>
+    <string name="company">Company</string>
+
+    <string-array name="company">
+        <item>Select Company</item>
+        <item> Samsung</item>
+        <item> Vivo</item>
+        <item> Iphone</item>
+        <item> Xiome</item>
+        <item> Oppo</item>
+    </string-array>
+</resources>
